@@ -8,3 +8,8 @@ This is the link to this app:
 https://nameless-shelf-11501.herokuapp.com/
 
 Enjoy :)
+
+# Usage
+- clone the repo
+- npm install 
+- node app.js
